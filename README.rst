@@ -2,7 +2,7 @@
  pyprosafe
 ===========
 
-TODO: Rewrite me. Append your package's long description.
+Python library for NETGEAR ProSAFE management.
 
 
 Status
