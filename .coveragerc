@@ -1,0 +1,5 @@
+[run]
+include =
+    pyprosafe/*
+omit =
+    pyprosafe/tests/*
