@@ -8,8 +8,7 @@ Contents:
 
    README
    modules/index
-
-.. ##### ToDo: Rewrite about documentation indexes. #####
+   target-devices
 
 .. toctree::
    :maxdepth: 1
